@@ -50,9 +50,7 @@ public class DeptController {
                     instance.getUri());
 
         }
-
-
-        System.out.println("n用来测试git");
+        System.out.println("测试git1");
         return this.client;
     }
 }
