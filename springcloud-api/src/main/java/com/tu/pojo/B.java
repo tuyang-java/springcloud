@@ -7,5 +7,7 @@ package com.tu.pojo;
 public class B {
     public static void main(String[] args) {
         System.out.println("这里增加了一个C类");
+        System.out.println("第二次测试");
+        System.out.println("这是第三测试");
     }
 }
